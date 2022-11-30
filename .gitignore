@@ -1,0 +1,54 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Test Coverage
+coverage/
+*.lcov
+test-results/
+
+# Dependency directories
+node_modules/
+
+# Compiled output directories
+build/
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Next.js build output
+.next
+out
+
+# IntelliJ
+*.iml
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
