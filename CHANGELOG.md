@@ -7,6 +7,12 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/jneander/semantic-release-config/compare/v1.0.0...v1.0.1) (2022-12-01)
+
+### Bug Fixes
+
+- move all dependencies to prod ([c57e254](https://github.com/jneander/semantic-release-config/commit/c57e254b93a27afa2b9c7d5639ffbaee77d2d6ff))
+
 ## 1.0.0 (2022-11-30)
 
 ### Features
