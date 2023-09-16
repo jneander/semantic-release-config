@@ -1,6 +1,6 @@
 {
   "name": "@jneander/semantic-release-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal Configuration for Semantic Release",
   "main": "release.config.js",
   "scripts": {},
